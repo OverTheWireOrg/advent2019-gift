@@ -1,0 +1,9 @@
+This is an example of how little code you need to create something extremely useful.
+
+At my workplace, I am using a Windows computer which is tightly controlled by IT staff.
+Since I almost never use this machine, except for reading e-mail, it very often switches
+on the screensaver and locks my screen (a setting I cannot change).
+
+This handy firmware will wiggle the mouse just a tiny bit every 10 seconds, preventing
+that my Windows computer goes to sleep.
+

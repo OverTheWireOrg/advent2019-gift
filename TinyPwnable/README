@@ -1,0 +1,11 @@
+The original plan was to create a tiny wargame that could run on the ATtiny85
+and communicated with using the serial port.
+Unfortunately, the hardware required for a straightforward implementation is not
+present in this version of the ATtiny85 board (you need the Pro), which necessitates
+the use of DigiCDC.
+This code works and can be loaded on the board, but it turns out to be very flaky.
+On some USB ports it will work fine, while on others it fails.
+
+If you can get it to run on yours: have fun!
+If you can figure out why it doesn't work, and you can fix it: please tell us!
+
